@@ -23,5 +23,3 @@ src/
 │   └── server.js
 ├── package.json
 ├── .env
-
-The default folder structure
